@@ -1,0 +1,14 @@
+# ------------------------------
+# AWS CDK dependencies.
+# ------------------------------
+
+aws-cdk.core==1.74.0
+aws-cdk.aws-lambda==1.74.0
+aws-cdk.aws-events==1.74.0
+aws-cdk.aws-events-targets==1.74.0
+
+# ------------------------------
+# Other dependencies.
+# ------------------------------
+
+boto3==1.16.28
